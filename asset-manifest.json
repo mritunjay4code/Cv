@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "https://mritunjay4code.github.io/Cv/static/css/main.b9832668.css",
+    "main.js": "https://mritunjay4code.github.io/Cv/static/js/main.6f079b4e.js",
+    "static/js/787.b0e6bac2.chunk.js": "https://mritunjay4code.github.io/Cv/static/js/787.b0e6bac2.chunk.js",
+    "static/media/chhotu.png": "https://mritunjay4code.github.io/Cv/static/media/chhotu.b5a6fd625e35c06303b5.png",
+    "index.html": "https://mritunjay4code.github.io/Cv/index.html",
+    "main.b9832668.css.map": "https://mritunjay4code.github.io/Cv/static/css/main.b9832668.css.map",
+    "main.6f079b4e.js.map": "https://mritunjay4code.github.io/Cv/static/js/main.6f079b4e.js.map",
+    "787.b0e6bac2.chunk.js.map": "https://mritunjay4code.github.io/Cv/static/js/787.b0e6bac2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b9832668.css",
+    "static/js/main.6f079b4e.js"
+  ]
+}
